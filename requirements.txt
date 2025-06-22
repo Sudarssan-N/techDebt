@@ -1,0 +1,6 @@
+urllib3<2.0
+langgraph
+langchain-openai
+pylint
+bandit
+pydantic
